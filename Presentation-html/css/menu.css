@@ -31,7 +31,7 @@
     transition: .8s all .3s;
     }
     #menu-demo2 li:hover ul{
-    max-height:15em;
+    max-height:35em;
     }
     /* background des liens menus */
     #menu-demo2 li:first-child{
