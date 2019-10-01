@@ -21,7 +21,7 @@
                 <li><a href="paragraphe.php">Paragraphe</a></li>
                 <li><a href="listes.php">Listes</a></li>
                 <li><a href="saut_ligne.php">Saut de ligne</a></li>
-                <li><a href="#">Tableau</a></li>
+                <li><a href="tableau.php">Tableau</a></li>
                 <li><a href="#">Image</a></li>
                 <li><a href="#">Lien</a></li>
                 <li><a href="#">Titre</a></li>
