@@ -6,7 +6,7 @@
 <article>
 <h3></h3>
 
-<h1> les formilaire </h1>
+<h1> les formulaires </h1>
 
 <p> Le HTML met à notre disposition une série d’éléments qui vont nous permettre de créer nos formulaires. <br><br>
 
