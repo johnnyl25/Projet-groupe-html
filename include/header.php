@@ -31,11 +31,11 @@
                     <li><a href="image.php">Image</a></li>
                     <li><a href="lien.php">Lien</a></li>
                     <li><a href="titre.php">Titre</a></li>
-                    <li><a href="#">Formulaire</a></li>
-                    <li><a href="#">Balise Div</a></li>
-                    <li><a href="#">Entête</a></li>
-                    <li><a href="#">Section</a></li>
-                    <li><a href="#">Pied de page</a></li>
+                    <li><a href="formilaire.php">Formulaire</a></li>
+                    <li><a href="balise_div.php">Balise Div</a></li>
+                    <li><a href="entete.php">Entête</a></li>
+                    <li><a href="section.php">Section</a></li>
+                    <li><a href="footer.php">Pied de page</a></li>
                 </ul>
             </li>
         </ul>
