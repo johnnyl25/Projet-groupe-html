@@ -80,6 +80,8 @@ section > p, .scroll-left > p{
     align-items: center;
     width: 75%;
 }
+
+
 .text{
     background-color: rgba(0, 140, 255, 0.397);
     padding: 3px;

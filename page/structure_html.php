@@ -8,12 +8,7 @@
             <p>L'élément HTML &lt;html&gt; représente la racine d'un document HTML ou XHTML. <br> Tout autre élément du document doit être un descendant de cet élément.</p>
             </aside>
             <aside class="exemple">
-            <pre>
-                <!DOCTYPE html>
-                <html lang="fr">
-
-                </html>
-            </pre>
+            <img src="../img/balisehtml.png" alt="code html">
             </aside>
         </article>
         <hr>
