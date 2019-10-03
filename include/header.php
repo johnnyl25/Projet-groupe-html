@@ -13,7 +13,7 @@
 <body>
 <header>
 <h1>Présentation des balises HTML</h1>
-<a href="index.php"><img class="logo" src="../img/nuage-de-mots.jpg" alt="image lache un like">
+<a href="index.php"><img class="logo" src="../img/nuage-de-mots-fond-transparent.png" alt="image lache un like">
 </a>
 </header class="triangle-css">
     <nav>
