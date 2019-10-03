@@ -28,7 +28,7 @@ h1{
     padding: 10%;
 }
 
-section{
+section, .scroll-left{
     overflow: auto;
     width: 75%;
     height: 71vh;
@@ -70,7 +70,7 @@ article > aside {
     font-family: 'Nunito Sans', sans-serif;
 }
 
-section > p{
+section > p, .scroll-left > p{
     font-family: 'Nunito Sans', sans-serif;
 }
 
