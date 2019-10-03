@@ -1,4 +1,7 @@
-<?php include "../include/header.php"; ?>
+<?php 
+$titre='Balise pied de page';
+require "../include/header.php";
+ ?>
 
 <section>
     <h2>footer</h2>

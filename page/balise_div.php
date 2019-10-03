@@ -1,4 +1,7 @@
-<?php include "../include/header.php"; ?>
+<?php 
+$titre='Balise div';
+require "../include/header.php";
+ ?>
 
 <section>
     <h2>Balise DIV</h2>

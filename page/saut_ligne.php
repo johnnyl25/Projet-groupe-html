@@ -1,4 +1,7 @@
-<?php include "../include/header.php"; ?>
+<?php 
+$titre='Balise saut de ligne';
+require "../include/header.php";
+ ?>
 
 <section>
     <h2>Le saut de ligne</h2>

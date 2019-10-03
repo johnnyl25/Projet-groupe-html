@@ -1,4 +1,7 @@
-<?php include "../include/header.php"; ?>
+<?php 
+$titre='Accueil';
+require "../include/header.php";
+ ?>
 
 <div class="scroll-left">
     <div></div>

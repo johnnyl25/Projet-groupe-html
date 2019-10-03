@@ -1,4 +1,7 @@
-<?php include "../include/header.php"; ?>
+<?php 
+$titre='Balise titre';
+require "../include/header.php";
+ ?>
 
 <section>
     <h2>Les titres</h2>

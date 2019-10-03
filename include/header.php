@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="fr">
 <head>
@@ -9,7 +10,7 @@
 <link rel="stylesheet" type="text/css" href="../css/scrolling.css">
 <link href="https://fonts.googleapis.com/css?family=Julius+Sans+One|Nunito+Sans|Poiret+One|Special+Elite&display=swap" rel="stylesheet">
 <link rel="icon" href="../img/nuage-de-mots-fond-transparent.ico">
-<title>Présentation html</title>
+<title><?php echo "$titre"; ?></title>
 </head>
 <body>
 <header>

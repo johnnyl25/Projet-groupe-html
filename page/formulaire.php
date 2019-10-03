@@ -1,4 +1,7 @@
-<?php include "../include/header.php"; ?>
+<?php 
+$titre='Les balises formulaire';
+require "../include/header.php";
+ ?>
 
 <section>
     <h2>formulaire</h2>

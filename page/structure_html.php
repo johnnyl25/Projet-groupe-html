@@ -1,5 +1,7 @@
-<?php include "../include/header.php"; ?>
-
+<?php 
+$titre='Structure html';
+require "../include/header.php";
+ ?>
 <section>
     <h2>Structure des balises (html, head, meta, title)</h2>
         <article>

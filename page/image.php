@@ -1,4 +1,7 @@
-<?php include "../include/header.php"; ?>
+<?php 
+$titre='Balise image';
+require "../include/header.php";
+ ?>
 
 <section>
     <h2>Les images</h2>

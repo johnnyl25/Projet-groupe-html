@@ -1,4 +1,7 @@
-<?php include "../include/header.php"; ?>
+<?php 
+$titre='Balise Body';
+require "../include/header.php";
+ ?>
 
 <section>
     <h2>Les balises body</h2>

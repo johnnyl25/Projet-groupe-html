@@ -1,5 +1,8 @@
 
-<?php include "../include/header.php"; ?>
+<?php 
+$titre='Balise lien';
+require "../include/header.php";
+ ?>
 
 <section>
     <h2> Les liens</h2>

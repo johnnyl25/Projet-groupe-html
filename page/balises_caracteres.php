@@ -1,4 +1,7 @@
-<?php include "../include/header.php"; ?>
+<?php 
+$titre='Les balises caractères';
+require "../include/header.php";
+ ?>
 
 <section>
     <h2>Les balises caractères (b, i, u)</h2>

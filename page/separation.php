@@ -1,4 +1,7 @@
-<?php include "../include/header.php"; ?>
+<?php 
+$titre='Balise séparateur';
+require "../include/header.php";
+ ?>
 
 <section>
     <h2>Le séparateur d'élément</h2>
