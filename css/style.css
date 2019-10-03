@@ -1,13 +1,107 @@
 /* Général */
+body{
+    margin: 0;
+    padding: 0;
+}
 header{
-    background-color: black;
-    width: 100%;
-    height: auto;
+    background-color: #AACF52;
+    display: grid;
+    grid-template-columns: repeat(9, 1fr);
+    grid-gap: 10px;
+    grid-auto-rows: minmax(100px, auto);
+}
+
+h1{
+    text-align: center;
+    grid-column: 4/7;
+    grid-row: 1;
+    font-size: 3vh;
+    text-align: center;
+    font-family: 'Poiret One', cursive;
+    font-size: 2em;
 }
 .logo{
-    width: 5%;
+    width: 80%;
     height: auto;
+    grid-column: 9;
+    grid-row: 1;
+    padding: 10%;
 }
-/* */
-/**/
-/**/
+
+section, .scroll-left{
+    overflow: auto;
+    width: 75%;
+    height: 71vh;
+    margin-top: 1%;
+}
+
+footer{
+    background-color: white;
+    width: auto;
+    margin: 0px;
+    height: 5vh;
+    margin-top: 3%;
+}
+footer > p{
+    text-align: center;
+    padding-top: 1%;
+    font-size: 1.5vh;
+    margin: 0;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.scroll-left > p{
+    font-size: 3em;
+}
+
+/* CONTENU */
+
+h2, h3{
+    text-align: center;
+    font-family: 'Special Elite', cursive;
+}
+
+article{
+    display: flex;
+    justify-content: space-between;
+}
+article > aside {
+    width: 45%;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+section > p, .scroll-left > p{
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.exemple{
+    display: flex;
+    flex-flow: wrap column;
+    align-items: center;
+    width: 75%;
+}
+.text{
+    background-color: rgba(0, 140, 255, 0.397);
+    padding: 3px;
+    padding-left: 2%;
+    border-radius: 10% 10% 10% 0%;
+}
+
+/* SCROLL-BAR */
+
+::-webkit-scrollbar {
+    width: 10px;
+} /* largeur de la barre */
+
+::-webkit-scrollbar-track {
+    background-color: transparent;
+} /* couleur fond de la barre */
+
+::-webkit-scrollbar-thumb {
+    background-color: rgba(0, 0, 0, 0.432); 
+} /* couleur de la barre */
+
+::-webkit-scrollbar-button {
+    background-color: black;
+    height: 1vh;
+} /* couleur des bouton monter et descendre */
