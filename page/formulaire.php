@@ -1,11 +1,11 @@
 <?php include "../include/header.php"; ?>
 
 <section>
-    <h2>formilaire</h2>
+    <h2>formulaire</h2>
     <hr>
     <article>
     <aside class="text">
-        <h3>formilaire <strong>&lt; from &gt;</strong></h3>
+        <h3>formulaire <strong>&lt; from &gt;</strong></h3>
 
         <p>     Le HTML met à notre disposition une série d’éléments qui vont nous permettre de créer nos formulaires. <br><br>
                 Ces différents éléments vont nous permettre de définir le formulaire en soi, de créer des zones de saisie de texte 
@@ -13,9 +13,9 @@
 
         </aside>
         <aside class="exemple">
-            <img src="../img/formilaire-html.png" alt="Exemple code html"> 
+            <img src="../img/formulaire-html.png" alt="Exemple code html"> 
             <h2>result</h2>
-            <img src="../img/formilaire-result.png" alt="Résultat du code html">
+            <img src="../img/formulaire-result.png" alt="Résultat du code html">
         </aside>
     </article>
 

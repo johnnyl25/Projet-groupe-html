@@ -15,7 +15,7 @@
         Indique l'endroit où envois le lien. <br>
         target : <br>
         Indique où afficher la source liée, comme un nouvel onglet avec la valeur blank.</p>        </aside>
-        <aside>
+        <aside class="exemple">
             <img src="../img/a-html.png" alt="Exemple du code html">
             <a href="https://example.com">Website</a>
         </aside>

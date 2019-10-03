@@ -20,7 +20,7 @@
             width : <br>
             Définit la longueur de la ligne.</p>
         </aside>
-        <aside>
+        <aside class="exemple">
         <img src="../img/hr-html.png" alt="Exemple code html">
         <img src="../img/hr-result.png" alt="Résultat du code html">
         </aside>

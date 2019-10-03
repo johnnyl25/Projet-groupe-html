@@ -15,7 +15,7 @@
             alt : <br>
             Définit un texte alternatif utiliser lorsque l'image ne s'affiche pas.</p>
         </aside>
-        <aside>
+        <aside class="exemple">
         <img src="../img/img-html.png" alt="Exemple code html">
         <img src="https://interactive-examples.mdn.mozilla.net/media/examples/grapefruit-slice-332-332.jpg" alt="Résultat du code html">
         </aside>

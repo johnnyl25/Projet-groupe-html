@@ -70,10 +70,15 @@ article > aside {
     font-family: 'Nunito Sans', sans-serif;
 }
 
+section > p{
+    font-family: 'Nunito Sans', sans-serif;
+}
+
 .exemple{
     display: flex;
     flex-flow: wrap column;
     align-items: center;
+    width: 75%;
 }
 .text{
     background-color: rgba(0, 140, 255, 0.397);
@@ -85,7 +90,7 @@ article > aside {
 /* SCROLL-BAR */
 
 ::-webkit-scrollbar {
-    width: 3px;
+    width: 10px;
 } /* largeur de la barre */
 
 ::-webkit-scrollbar-track {

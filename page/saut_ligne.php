@@ -12,7 +12,7 @@
             clear : obselète depuis HTML 4.01 <br>
             L'attribut indique où commence la prochaine ligne après le saut de ligne.</p>
         </aside>
-        <aside>
+        <aside class="exemple">
             <img src="../img/br-html.png" alt="Exemple code html">
             <img src="../img/br-result.png" alt="Résultat du code html">
         </aside>
