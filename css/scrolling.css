@@ -5,6 +5,22 @@
   width: 75%;
   height: 71vh;
 }
+
+.scroll-left > div{
+  width: 100%;
+  height: 100%;
+  background-image: url(../img/nuage-de-mots.jpg);
+  background-size: 100%;
+  float: right;
+  opacity: 0.25;
+}
+
+.scroll-left > p{
+  background-color: rgba(255, 255, 255, 0.247);
+  border-radius: 100%;
+}
+
+  .scroll-left > p {
   position: absolute;
   width: 100%;
   height: 100%;
