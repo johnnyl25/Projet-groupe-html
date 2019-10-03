@@ -22,8 +22,8 @@
         <ul>
             <li class="deroulant"><a href="#">Menu des Définitions</a>
                 <ul class="sous">
-                    <li><a href="structure_html.php">Html</a></li>
-                    <li><a href="balise_body.php">Body</a></li>
+                    <li><a href="structure_html.php">Structure Html</a></li>
+                    <li><a href="balise_body.php">Balise Body</a></li>
                     <li><a href="balises_caracteres.php">Balises Caractères</a></li>
                     <li><a href="paragraphe.php">Paragraphe</a></li>
                     <li><a href="listes.php">Listes</a></li>
