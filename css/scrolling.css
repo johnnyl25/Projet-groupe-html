@@ -15,10 +15,7 @@
   opacity: 0.22;
 }
 
-.scroll-left > p{
-  background-color: rgba(255, 255, 255, 0);
-  border-radius: 100%;
-}
+
 
   .scroll-left > p {
   position: absolute;
