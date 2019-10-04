@@ -5,6 +5,7 @@ require "../include/header.php";
 
 <section>
     <h2>Les balises body</h2>
+    <hr>
         <article>
             <aside class="text">
             <h3>Balise &lt;body&gt;</h3>

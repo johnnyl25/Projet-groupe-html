@@ -4,6 +4,7 @@ require "../include/header.php";
  ?>
 <section>
     <h2>Structure des balises (html, head, meta, title)</h2>
+        <hr>
         <article>
             <aside class="text">
             <h3>Balise &lt;html&gt; définition : </h3>
@@ -17,7 +18,7 @@ require "../include/header.php";
         <article>
             <aside class="text">
             <h3>Balise &lt; head &gt; définition :</h3>
-            <p>L'élément HTML &lt;head&gt; fournit des informations générales (métadonnées) sur le document, <br> incluant son titre et des liens ou des définitions vers des scripts et feuilles de style.</p>
+            <p>L'élément HTML &lt; head &gt; fournit des informations générales (métadonnées) sur le document, <br> incluant son titre et des liens ou des définitions vers des scripts et feuilles de style.</p>
             </aside>
             <aside class="exemple">
             <img src="../img/balisehead.png" alt="code head">
