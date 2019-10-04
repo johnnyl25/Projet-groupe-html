@@ -4,9 +4,10 @@
 body{
     margin: 0;
     padding: 0;
+    background-color: #CCE6FB;
 }
 header{
-    background-color: #AACF52;
+    background-color: #A7A5F3;
     display: grid;
     grid-template-columns: repeat(9, 1fr);
     grid-gap: 10px;
@@ -39,7 +40,7 @@ section, .scroll-left{
 }
 
 footer{
-    background-color: white;
+    background-color: rgba(255, 255, 255, 0.733);
     width: auto;
     margin: 0px;
     height: 5vh;
@@ -242,7 +243,7 @@ nav{
     height: 10vh;
     margin: 0px;
     margin-top: 1%;
-    background-color: #58B648;
+    background-color: #A7A5F3;
     position: relative;
     top: 0px;
     float: left;
@@ -348,7 +349,7 @@ nav ul li{
   }
   
     .scroll-left > p {
-    background-color: rgba(255, 255, 255, 0.107);
+    background-color: rgba(255, 255, 255, 0);
     border-radius: 100%;
     font-size: 3vh;
     position: absolute;
