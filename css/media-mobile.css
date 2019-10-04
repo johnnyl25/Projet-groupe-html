@@ -1,0 +1,376 @@
+@media screen and (max-width: 640px){
+
+/* Général */
+body{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: #AACF52;
+    display: grid;
+    grid-template-columns: repeat(9, 1fr);
+    grid-gap: 10px;
+    grid-auto-rows: minmax(auto, auto);
+}
+
+h1{
+    text-align: center;
+    grid-column: 2/10;
+    grid-row: 1;
+    font-size: 3.5vh;
+    text-align: center;
+    font-family: 'Poiret One', cursive;
+    padding-right: 20%;
+}
+.logo{
+    width: 100px;
+    height: auto;
+    grid-column: 9;
+    grid-row: 1;
+    padding-left: 10%;
+    margin-top: 10%;
+}
+
+section, .scroll-left{
+    overflow: auto;
+    width: 75%;
+    height: 71vh;
+    margin-top: 1%;
+}
+
+footer{
+    background-color: white;
+    width: auto;
+    margin: 0px;
+    height: 5vh;
+    margin-top: 3%;
+}
+footer > p{
+    text-align: center;
+    padding-top: 1%;
+    font-size: 1.5vh;
+    margin: 0;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.scroll-left > p{
+    font-size: 1vh;
+}
+
+section > p, .scroll-left > p{
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+/* CONTENU */
+
+section{
+    width: 100%;
+    height: 60vh;
+}
+
+h2, h3{
+    text-align: center;
+    font-family: 'Special Elite', cursive;
+    font-size: 2.5vh;
+}
+
+article{
+    display: flex;
+    flex-flow: wrap column;
+    width: 100%;
+}
+article > aside {
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.exemple{
+    margin-top: 1%;
+    width: 90vw;
+    display: grid;
+    grid-template-columns: fit-content(70%);
+    grid-template-rows: repeat(4, auto);
+}
+.exemple > img:nth-child(1){
+    width: 100%;
+    grid-row: 1/3;
+    margin-left: 5%;
+}
+
+.exemple > img:nth-child(2){
+    width: 90%;
+    grid-row: 4;
+    margin-left: 10%;
+}
+
+.exemple > .reduir-img:nth-child(1){
+    width: 100%;
+    grid-row: 1;
+    margin-left: 5%;
+
+}
+.exemple > .reduir-img:nth-child(2){
+    width: 100%;
+    grid-row: 2;
+    margin-left: 5%;
+
+}
+.exemple > .reduir-img:nth-child(3){
+    width: 100%;
+    grid-row: 3;
+    margin-left: 5%;
+
+}
+.exemple > .reduir-img:nth-child(4){
+    width: 100%;
+    grid-row: 4;
+    margin-left: 5%;
+
+}
+
+.text{
+    background-color: rgba(0, 140, 255, 0.397);
+    padding: 3px;
+    padding-left: 5%;
+    margin-left: 2%;
+    border-radius: 10% 10% 10% 0%;
+    font-size: 2vh;
+    width: 90%;
+}
+
+/* CORPS EXEMPLE ACTIVE */
+
+.exemple > img:nth-child(1):active{
+    padding-left: 8%;
+    padding-bottom: 50%;
+    transform: scale(1.5);
+}
+.exemple > img:nth-child(2):active{
+    padding-left: 10%;
+    padding-bottom: 50%;
+    transform: scale(1.5);
+}
+
+.exemple > img:nth-child(3):active{
+    padding-left: 7%;
+    padding-bottom: 50%;
+    transform: scale(1.5);
+}
+.exemple > img:nth-child(4):active{
+    padding-left: 10%;
+    padding-bottom: 50%;
+    transform: scale(1.5);
+}
+
+.exemple > .grande-img:nth-child(1):active{
+    padding-left: 20%;
+    padding-bottom: 50%;
+    transform: scale(1.5);
+}
+.exemple > .grande-img:nth-child(2):active{
+    padding-left: 20%;
+    padding-bottom: 50%;
+    transform: scale(1.5);
+}
+
+.exemple > .reduir-img:nth-child(1):active{
+    padding-left: 20%;
+    padding-bottom: 50%;
+    transform: scale(1.5);
+}
+.exemple > .reduir-img:nth-child(2):active{
+    padding-left: 20%;
+    padding-bottom: 50%;
+    transform: scale(1.5);
+}
+
+.exemple > .reduir-img:nth-child(3):active{
+    padding-left: 20%;
+    padding-bottom: 50%;
+    transform: scale(1.5);
+}
+.exemple > .reduir-img:nth-child(4):active{
+    padding-left: 20%;
+    padding-bottom: 50%;
+    transform: scale(1.5);
+}
+
+.exemple > .centre-img:nth-child(1):active{
+    padding-left: 15%;
+    padding-bottom: 50%;
+    transform: scale(1.3);
+}
+.exemple > .centre-img:nth-child(2):active{
+    padding-left: 20%;
+    padding-bottom: 50%;
+    transform: scale(1.5);
+}
+
+.exemple > .centre-img:nth-child(3):active{
+    padding-left: 20%;
+    padding-bottom: 50%;
+    transform: scale(1.5);
+}
+.exemple > .centre-img:nth-child(4):active{
+    padding-left: 20%;
+    padding-bottom: 50%;
+    transform: scale(1.5);
+}
+
+
+/* SCROLL-BAR */
+
+::-webkit-scrollbar {
+    width: 10px;
+} /* largeur de la barre */
+
+::-webkit-scrollbar-track {
+    background-color: transparent;
+} /* couleur fond de la barre */
+
+::-webkit-scrollbar-thumb {
+    background-color: rgba(0, 0, 0, 0.432); 
+} /* couleur de la barre */
+
+::-webkit-scrollbar-button {
+    background-color: black;
+    height: 1vh;
+} /* couleur des bouton monter et descendre */
+
+/* PARTIE NAV */
+nav{
+    width: 100%;
+    height: 10vh;
+    margin: 0px;
+    margin-top: 1%;
+    background-color: #58B648;
+    position: relative;
+    top: 0px;
+    float: left;
+    font-family: 'Julius Sans One', sans-serif;
+
+}
+
+nav ul{
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li{
+    float: left;
+    width: 100%;
+    text-align: center;
+}
+
+nav ul::after{
+    content: "";
+    display: table;
+    clear: both;
+}
+
+nav a{
+    display: block;
+    text-decoration: none;
+    color: #002A74;
+    border-bottom: 2px solid transparent;
+    padding: 3px 0px;
+    font-size: 2.5vh;
+}
+
+nav a:hover{
+    color: #008BFF;
+    border-bottom: 2px solid black;
+}
+
+.sous{
+    display: none;
+    box-shadow: 0px 1px 2px #CCC;
+    background-color: #D8D8D8;
+}
+
+nav > ul li:hover .sous{
+    display: block;
+}
+
+.sous li{
+    float: none;
+    width: 100%;
+    text-align: left;
+}
+
+.sous a{
+    padding: 3px;
+    border-bottom: none;
+}
+.sous a:hover{
+    border-bottom: none;
+    background-color: #D8D8D8;
+}
+
+.deroulant > a::after{
+    content: " ▼ ";
+    font-size: 1vh;
+}
+
+.sous{
+    display: none;
+    box-shadow: 0px 1px 2px #CCC;
+    background-color: white;
+    position: absolute;
+    width: 100%;
+    z-index: 1000;
+}
+
+nav ul li{
+    float: left;
+    width: 100%;
+    text-align: center;
+    position: relative;
+}
+
+/* PARTIE SCROLLING */
+
+.scroll-left {
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+    height: 68vh;
+  }
+  
+  .scroll-left > div{
+    width: 100%;
+    height: 100%;
+    margin-top: 25%;
+    background-image: url(../img/nuage-de-mots.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    float: right;
+    opacity: 0.25;
+  }
+  
+    .scroll-left > p {
+    background-color: rgba(255, 255, 255, 0.107);
+    border-radius: 100%;
+    font-size: 3vh;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding-top: 40%;
+    line-height: 50px;
+    text-align: center;
+  
+      transform:translateX(100%);
+  
+      animation: scroll-left 20s linear infinite;
+    }
+  
+    @keyframes scroll-left {
+      0% { 
+      transform: translateX(100%); 
+      }
+      100% { 
+      transform: translateX(-100%); 
+      }
+    }
+
+}

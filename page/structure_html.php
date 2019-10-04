@@ -33,7 +33,7 @@ require "../include/header.php";
             Cet attribut déclare l'encodage utilisé par la page. Il peut être outrepassé de manière locale en utilisant l'attribut <span>lang</span> d'un élément.</p>
             </aside>
             <aside class="exemple">
-            <img src="../img/balisemeta.png" alt="code meta">
+                    <img class="grande-img" src="../img/balisemeta.png" alt="code meta">
             </aside>
         </article>
 </section>

@@ -24,8 +24,8 @@ require "../include/header.php";
             Définit la longueur de la ligne.</p>
         </aside>
         <aside class="exemple">
-        <img src="../img/hr-html.png" alt="Exemple code html">
-        <img src="../img/hr-result.png" alt="Résultat du code html">
+        <img class="grande-img" src="../img/hr-html.png" alt="Exemple code html">
+        <img class="grande-img" src="../img/hr-result.png" alt="Résultat du code html">
         </aside>
     </article>
 </section>
