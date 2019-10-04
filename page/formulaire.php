@@ -17,7 +17,6 @@ require "../include/header.php";
         </aside>
         <aside class="exemple">
             <img src="../img/formulaire-html.png" alt="Exemple code html"> 
-            <h2>result</h2>
             <img src="../img/formulaire-result.png" alt="Résultat du code html">
         </aside>
     </article>
@@ -60,7 +59,6 @@ require "../include/header.php";
         </aside>
         <aside class="exemple">
             <img class="grande-img" src="../img/select-html.png" alt="Exemple code html"> 
-            <h2>result</h2>
             <img src="../img/select-result.png" alt="Résultat du code html">
         </aside>
     </article>
