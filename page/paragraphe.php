@@ -1,7 +1,11 @@
-<?php include "../include/header.php"; ?>
+<?php 
+$titre='Les Balises paragraphe';
+require "../include/header.php";
+ ?>
 
 <section>
     <h2>Les balises paragraphes</h2>
+        <hr>
         <article>
             <aside class="text">
             <h3>Balise &lt;pre&gt;</h3>

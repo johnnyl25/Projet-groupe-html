@@ -1,7 +1,11 @@
-<?php include "../include/header.php"; ?>
+<?php 
+$titre='Les balises Listes';
+require "../include/header.php";
+ ?>
 
 <section>
     <h2>Les balises listes</h2>
+        <hr>
         <article>
             <aside class="text">
             <h3>Balise &lt;ul&gt;</h3>

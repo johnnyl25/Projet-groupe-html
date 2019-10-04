@@ -1,4 +1,7 @@
-<?php include "../include/header.php"; ?>
+<?php 
+$titre='Les balises tableau';
+require "../include/header.php";
+ ?>
 
 <section>
     <h2>Le tableau</h2>

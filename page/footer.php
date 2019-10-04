@@ -1,4 +1,7 @@
-<?php include "../include/header.php"; ?>
+<?php 
+$titre='Balise pied de page';
+require "../include/header.php";
+ ?>
 
 <section>
     <h2>footer</h2>
@@ -14,7 +17,6 @@
         </aside>
         <aside class="exemple">
             <img src="../img/footer-html.png" alt="Exemple code html"> 
-            <h2>result</h2>
             <img src="../img/footer-result.png" alt="Résultat du code html">
         </aside>
     </article>

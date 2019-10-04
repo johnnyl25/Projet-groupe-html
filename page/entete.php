@@ -1,4 +1,7 @@
-<?php include "../include/header.php"; ?>
+<?php 
+$titre='Les balises entête';
+require "../include/header.php";
+ ?>
 
 <section>
     <h2>Entête</h2>
@@ -13,7 +16,6 @@
         </aside>
         <aside class="exemple">
             <img src="../img/header-html.png" alt="Exemple code html"> 
-            <h2>result</h2>
             <img src="../img/header-result.png" alt="Résultat du code html">
         </aside>
     </article>

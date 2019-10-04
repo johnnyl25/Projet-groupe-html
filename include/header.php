@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="fr">
 <head>
@@ -7,10 +8,12 @@
 <link rel="stylesheet" type="text/css" href="../css/style.css">
 <link rel="stylesheet" type="text/css" href="../css/nav.css">
 <link rel="stylesheet" type="text/css" href="../css/scrolling.css">
-<link rel="stylesheet" type="text/css" href="../css/media-mobile.css">
-<link href="https://fonts.googleapis.com/css?family=Julius+Sans+One|Nunito+Sans|Poiret+One|Special+Elite&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Special+Elite&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Poiret+One&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Julius+Sans+One&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Nunito&display=swap" rel="stylesheet">
 <link rel="icon" href="../img/nuage-de-mots-fond-transparent.ico">
-<title>Présentation html</title>
+<title><?php echo "$titre"; ?></title>
 </head>
 <body>
 <header>
@@ -22,8 +25,8 @@
         <ul>
             <li class="deroulant"><a href="#">Menu des Définitions</a>
                 <ul class="sous">
-                    <li><a href="structure_html.php">Html</a></li>
-                    <li><a href="balise_body.php">Body</a></li>
+                    <li><a href="structure_html.php">Structure Html</a></li>
+                    <li><a href="balise_body.php">Balise Body</a></li>
                     <li><a href="balises_caracteres.php">Balises Caractères</a></li>
                     <li><a href="paragraphe.php">Paragraphe</a></li>
                     <li><a href="listes.php">Listes</a></li>
