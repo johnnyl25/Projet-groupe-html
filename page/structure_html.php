@@ -6,7 +6,7 @@ require "../include/header.php";
     <h2>Structure des balises (html, head, meta, title)</h2>
         <article>
             <aside class="text">
-            <h3>Balise &lt; html &gt; définition : </h3>
+            <h3>Balise &lt;html&gt; définition : </h3>
             <p>L'élément HTML &lt;html&gt; représente la racine d'un document HTML ou XHTML. <br> Tout autre élément du document doit être un descendant de cet élément.</p>
             </aside>
             <aside class="exemple">
