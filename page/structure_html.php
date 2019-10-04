@@ -25,12 +25,12 @@
         <article>
             <aside class="text">
             <h3>Balise &lt; meta &gt; définition :</h3>
-            <p>L'élément HTML <meta> représente toute information de métadonnées qui ne peut pas être représentée par un des éléments (&lt;base&gt;, &lt;link&gt;, &lt;script&gt;, &lt;style&gt; ou &lt;title&gt;)</p>
+            <p>L'élément HTML &lt;meta&gt; représente toute information de métadonnées qui ne peut pas être représentée par un des éléments (&lt;base&gt;, &lt;link&gt;, &lt;script&gt;, &lt;style&gt; ou &lt;title&gt;)</p>
             <p>Charset :<br>
             Cet attribut déclare l'encodage utilisé par la page. Il peut être outrepassé de manière locale en utilisant l'attribut <span>lang</span> d'un élément.</p>
             </aside>
             <aside class="exemple">
-            <img src="../img/balisemeta.png" alt="code meta">
+                    <img class="grande-img" src="../img/balisemeta.png" alt="code meta">
             </aside>
         </article>
 </section>

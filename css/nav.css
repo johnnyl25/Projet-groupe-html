@@ -2,7 +2,7 @@ nav{
     width: 20%;
     height: 71vh;
     margin: 1%;
-    background-color: #D8D8D8;
+    background-color: #58B648;
     position: sticky;
     top: 0px;
     float: left;
@@ -30,7 +30,7 @@ nav ul::after{
 nav a{
     display: block;
     text-decoration: none;
-    color: #008BFF;
+    color: #002A74;
     border-bottom: 2px solid transparent;
     padding: 3px 0px;
 }

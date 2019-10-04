@@ -40,10 +40,10 @@
              Un tel contrôle est appelé contrôle étiqueté par l'élément &lt;label&gt;.</p>
         </aside>     
         <aside class="exemple">
-        <img src="../img/input-html.png" alt="Exemple code html">
-        <img src="../img/input-result.png" alt="Résultat du code html">
-        <img src="../img/label-html.png" alt="Exemple code html">
-        <img src="../img/label-result.png" alt="Résultat du code html">
+            <img class="reduir-img" src="../img/input-html.png" alt="Exemple code html">
+            <img class="reduir-img" src="../img/input-result.png" alt="Résultat du code html">
+            <img class="reduir-img" src="../img/label-html.png" alt="Exemple code html">
+            <img class="reduir-img" src="../img/label-result.png" alt="Résultat du code html">
         </aside>
     </article>
     <hr>
@@ -56,7 +56,7 @@
 
         </aside>
         <aside class="exemple">
-            <img src="../img/select-html.png" alt="Exemple code html"> 
+            <img class="grande-img" src="../img/select-html.png" alt="Exemple code html"> 
             <h2>result</h2>
             <img src="../img/select-result.png" alt="Résultat du code html">
         </aside>

@@ -12,7 +12,7 @@
 
         </aside>
         <aside class="exemple">
-            <img src="../img/section-html.png" alt="Exemple code html"> 
+            <img class="centre-img" src="../img/section-html.png" alt="Exemple code html"> 
             <h2>result</h2>
             <img src="../img/section-result.png" alt="Résultat du code html">
         </aside>
@@ -30,7 +30,7 @@
              Ce contenu est prévu pour être distribué ou réutilisé indépendamment (par exemple dans un flux de syndication).</p>
         </aside>     
         <aside class="exemple">
-        <img src="../img/article-html.png" alt="Exemple code html">
+        <img class="centre-img" src="../img/article-html.png" alt="Exemple code html">
         <img src="../img/article-result.png" alt="Résultat du code html">
         </aside>
     </article>
@@ -46,7 +46,7 @@
          de légende.</p>
     </aside>     
     <aside class="exemple">
-    <img src="../img/aside-html.png" alt="Exemple code html">
+    <img class="centre-img" src="../img/aside-html.png" alt="Exemple code html">
     <img src="../img/aside-result.png" alt="Résultat du code html">
     </aside>
 </article>

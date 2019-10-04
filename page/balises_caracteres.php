@@ -11,8 +11,8 @@
              Si l'élément est d'une importance particulière, on utilisera l'élément HTML &lt;strong&gt;.</p>
             </aside>
             <aside class="exemple">
-            <img src="../img/baliseb_example.png" alt="code balise b">
-            <img src="../img/baliseb_result.png" alt="code balise b result">
+            <img class="grande-img" src="../img/baliseb_example.png" alt="code balise b">
+            <img class="grande-img" src="../img/baliseb_result.png" alt="code balise b result">
             </aside>
         </article>
         <hr>
@@ -25,7 +25,7 @@
             </aside>
             <aside class="exemple">
             <img src="../img/balisei_example.png" alt="code balise i" >
-            <img src="../img/balisei_result.png" alt="code balise i result" >
+            <img class="grande-img" src="../img/balisei_result.png" alt="code balise i result" >
             </aside>
         </article>
         <hr>

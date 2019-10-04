@@ -29,7 +29,7 @@
         </aside>
         
         <aside class="exemple">
-        <img src="../img/table-html.png" alt="Exemple code html">
+        <img class="grande-img" src="../img/table-html.png" alt="Exemple code html">
         <img src="../img/table-result.png" alt="Résultat du code html">
         </aside>
     </article>

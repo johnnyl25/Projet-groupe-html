@@ -23,7 +23,7 @@
             </aside>
             <aside class="exemple">
             <img src="../img/balisep_example.png" alt="code balise p" >
-            <img src="../img/balisep_result.png" alt="code balise p result">
+            <img class="grande-img" src="../img/balisep_result.png" alt="code balise p result">
             </aside>
         </article>
 </section>
