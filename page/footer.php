@@ -17,7 +17,6 @@ require "../include/header.php";
         </aside>
         <aside class="exemple">
             <img src="../img/footer-html.png" alt="Exemple code html"> 
-            <h2>result</h2>
             <img src="../img/footer-result.png" alt="Résultat du code html">
         </aside>
     </article>
