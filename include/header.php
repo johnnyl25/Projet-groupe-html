@@ -8,6 +8,7 @@
 <link rel="stylesheet" type="text/css" href="../css/style.css">
 <link rel="stylesheet" type="text/css" href="../css/nav.css">
 <link rel="stylesheet" type="text/css" href="../css/scrolling.css">
+<link rel="stylesheet" type="text/css" href="../css/media-mobile.css">
 <link href="https://fonts.googleapis.com/css?family=Special+Elite&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Poiret+One&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Julius+Sans+One&display=swap" rel="stylesheet">
