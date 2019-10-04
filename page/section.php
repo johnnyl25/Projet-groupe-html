@@ -46,9 +46,6 @@ require "../include/header.php";
         </aside>
     </article>
     <hr>
-   
-
-<hr>
 </section>
 
 
